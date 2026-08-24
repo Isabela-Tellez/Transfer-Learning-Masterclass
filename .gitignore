@@ -1,0 +1,17 @@
+# Entornos virtuales
+.venv/
+env/
+venv/
+
+# Ejecutables e instaladores de Windows
+*.exe
+vc_redist.x64.exe
+
+# Archivos temporales de Python y Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db    
